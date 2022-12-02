@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 👋 Hi, I’m Samrith Uppala <br>- 👀 I’m interested in AIML,WEB DEVELOPEMENT<br>- 🌱 I’m currently learning JAVA AND ANDROID<br>- 💕 I'm Currently Learning BootStrap
+<br>- 👋 Hi, I’m Samrith Uppala <br>- 👀 I’m interested in CLOUD TECHNOLOGIES,WEB DEVELOPEMENT<br>- 🌱 I’m currently learning JAVA AND PYTHON<br>- 💕 I'm Currently Learning BootStrap
 
 
 # 💻 Tech Stack:
