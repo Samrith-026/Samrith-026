@@ -1,18 +1,43 @@
-# 💫 About Me:
-<br>- 👋 Hi, I’m Samrith Uppala <br>- 👀 I’m interested in CLOUD TECHNOLOGIES,WEB DEVELOPEMENT<br>- 🌱 I’m currently learning JAVA AND PYTHON<br>- 💕 I'm Currently Learning BootStrap
+# Hi, I'm Durga Samrith Uppala
 
+**Cloud engineering, reliable systems, and useful analytics.**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Samrith-026&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Samrith-026&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samrith-026&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Based in Irving, Texas. I work with AWS, Python, SQL, and automation to build dependable services and turn data into practical operational insights.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Samrith-026&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[Portfolio](https://durgasamrithuppala.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/durga-samrith-uppala/) · [Email](mailto:durgasamrithuppala@gmail.com)
 
----
-[![](https://visitcount.itsvg.in/api?id=Samrith-026&icon=0&color=4)](https://visitcount.itsvg.in)
+## Featured work
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### [Data Analyst Portfolio](https://github.com/Samrith-026/data-analyst-portfolio)
+
+Three reproducible case studies using synthetic data, with executable SQL, Python generators, documented KPI definitions, and exported results.
+
+| Case study | Focus | Source |
+| --- | --- | --- |
+| Healthcare distribution | Service costs, contribution margin, star schema, and 21 DAX measures across 12,000 synthetic orders | [Project walkthrough](https://github.com/Samrith-026/data-analyst-portfolio/tree/main/healthcare-distribution-powerbi) |
+| Retail performance | Revenue, contribution, order value, and repeat purchasing | [SQL analysis](https://github.com/Samrith-026/data-analyst-portfolio/tree/main/retail-performance) |
+| Distribution SLA | Carrier performance, on-time delivery, and OTIF | [SQL analysis](https://github.com/Samrith-026/data-analyst-portfolio/tree/main/distribution-sla) |
+
+The healthcare project includes Power BI report/model source and an independently implemented HTML companion. Data and SQL checks are documented; Power BI Desktop refresh, DAX execution, and native visual verification remain pending. These are synthetic demonstrations, not employer data or claims of realized business savings. The repository documents AI assistance and reproducibility steps.
+
+## Experience highlights
+
+- **Agrace Pharma:** automated recurring reporting, saving four hours of manual preparation per cycle; built distribution and compliance dashboards.
+- **DriverAI:** reduced P99 API latency by 30% through MySQL query optimization and Redis connection pooling; worked on AWS infrastructure and deployment automation.
+- **Vaatsa Technologies:** resolved 15+ production issues across Python/Java services and improved release cycle speed by 10%.
+
+## Technical focus
+
+| Cloud & reliability | Data & analytics |
+| --- | --- |
+| AWS, Terraform, Docker, Kubernetes | SQL, Python, PostgreSQL, MySQL |
+| CI/CD, GitHub Actions, Bash | Power BI, Tableau, Excel |
+| CloudWatch, Splunk, Redis | Airflow, PySpark, Pandas |
+
+## Education & credentials
+
+- M.S. Computer Science, University of North Texas — GPA 3.91, 2024–2026
+- B.Tech Computer Science (Cloud Computing), SRM Institute of Science & Technology — GPA 3.7, 2020–2024
+- AWS Certified Cloud Practitioner
+
+Interested in conversations about cloud engineering, DevOps/SRE, and data analytics: [durgasamrithuppala@gmail.com](mailto:durgasamrithuppala@gmail.com).
