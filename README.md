@@ -20,6 +20,12 @@ Three reproducible case studies using synthetic data, with executable SQL, Pytho
 
 The healthcare project includes Power BI report/model source and an independently implemented HTML companion. Data and SQL checks are documented; Power BI Desktop refresh, DAX execution, and native visual verification remain pending. These are synthetic demonstrations, not employer data or claims of realized business savings. The repository documents AI assistance and reproducibility steps.
 
+### AI Receipt Scanner & Spending Analytics
+
+A private Next.js and Supabase application that converts receipt images and PDFs into reviewable purchase records using structured AI extraction. It validates line-item arithmetic, flags low-confidence values, supports human corrections, and reports total spend, active vendors, average receipt value, and spending by school and category. Users can export purchase and line-item data to CSV for further analysis.
+
+The application uses role-based, school-scoped access and private receipt storage, so its source code and operational data are not public. See the [portfolio project summary](https://durgasamrithuppala.netlify.app/#work).
+
 ## Experience highlights
 
 - **Agrace Pharma:** automated recurring reporting, saving four hours of manual preparation per cycle; built distribution and compliance dashboards.
