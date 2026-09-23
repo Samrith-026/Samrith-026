@@ -8,6 +8,10 @@ Based in Irving, Texas. I work with AWS, Python, SQL, and automation to build de
 
 ## Featured work
 
+### [Cloud-Native Rate Limiter](https://github.com/Samrith-026/cloud-native-rate-limiter)
+
+A production-minded Spring Boot service that applies an atomic Redis fixed-window limit across multiple instances. It includes standards-aligned response headers, Prometheus metrics, structured logs, Docker Compose, hardened Kubernetes manifests, autoscaling, CI, load testing, and an incident runbook.
+
 ### [Data Analyst Portfolio](https://github.com/Samrith-026/data-analyst-portfolio)
 
 Three reproducible case studies using synthetic data, with executable SQL, Python generators, documented KPI definitions, and exported results.
