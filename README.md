@@ -44,7 +44,7 @@ The healthcare project includes Power BI report/model source and an independentl
 
 ### AI Receipt Scanner & Spending Analytics
 
-A private Next.js and Supabase application that converts receipt images and PDFs into reviewable purchase records using structured AI extraction. It validates line-item arithmetic, flags low-confidence values, supports human corrections, and reports total spend, active vendors, average receipt value, and spending by school and category. Users can export purchase and line-item data to CSV for further analysis.
+A private Next.js and Supabase application that uses structured AI extraction to turn receipt images and PDFs into reviewable purchase records, with line-item arithmetic checks, confidence flags, and human corrections. Its school-scoped analytics include date-range trends and comparisons, vendor/category/product drilldowns, unusual-purchase flags, contract-price variance checks, and on-demand AI summaries. Users can export detailed reports to CSV or Excel, and administrators can configure scheduled reports.
 
 The application uses role-based, school-scoped access and private receipt storage, so its source code and operational data are not public. See the [portfolio project summary](https://durgasamrithuppala.netlify.app/#work).
 
