@@ -12,6 +12,10 @@ Based in Irving, Texas. I work with AWS, Python, SQL, and automation to build de
 
 A production-minded Spring Boot service that applies an atomic Redis fixed-window limit across multiple instances. It includes standards-aligned response headers, Prometheus metrics, structured logs, Docker Compose, hardened Kubernetes manifests, autoscaling, CI, load testing, and an incident runbook.
 
+### [Serverless CloudWatch Anomaly Detection](https://github.com/Samrith-026/serverless-anomaly-detection)
+
+An AWS observability pipeline implemented with Python and Terraform: validated custom metrics, CloudWatch anomaly bands, EventBridge routing, Lambda enrichment, encrypted SNS alerts, an SQS dead-letter queue, a local simulator, and automated verification.
+
 ### [Data Analyst Portfolio](https://github.com/Samrith-026/data-analyst-portfolio)
 
 Three reproducible case studies using synthetic data, with executable SQL, Python generators, documented KPI definitions, and exported results.
