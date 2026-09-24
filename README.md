@@ -12,13 +12,19 @@ Based in Irving, Texas. I work with AWS, Python, SQL, and automation to build de
 
 A production-minded Spring Boot service that applies an atomic Redis fixed-window limit across multiple instances. It includes standards-aligned response headers, Prometheus metrics, structured logs, Docker Compose, hardened Kubernetes manifests, autoscaling, CI, load testing, and an incident runbook.
 
+[![Rate limiter architecture preview](https://raw.githubusercontent.com/Samrith-026/cloud-native-rate-limiter/main/docs/images/architecture.svg)](https://github.com/Samrith-026/cloud-native-rate-limiter)
+
 ### [Serverless CloudWatch Anomaly Detection](https://github.com/Samrith-026/serverless-anomaly-detection)
 
 An AWS observability pipeline implemented with Python and Terraform: validated custom metrics, CloudWatch anomaly bands, EventBridge routing, Lambda enrichment, encrypted SNS alerts, an SQS dead-letter queue, a local simulator, and automated verification.
 
+[![Anomaly detection architecture preview](https://raw.githubusercontent.com/Samrith-026/serverless-anomaly-detection/main/docs/images/architecture.svg)](https://github.com/Samrith-026/serverless-anomaly-detection)
+
 ### [Cloud Contact Center & Voice Automation](https://github.com/Samrith-026/contact-center-voice-automation)
 
 An Amazon Connect and Lambda workflow for outbound call routing and transcript summaries, with encrypted S3 storage, optional Bedrock summarization, Terraform, a local simulator, and an operations runbook.
+
+[![Contact center architecture preview](https://raw.githubusercontent.com/Samrith-026/contact-center-voice-automation/main/docs/images/architecture.svg)](https://github.com/Samrith-026/contact-center-voice-automation)
 
 ### [Data Analyst Portfolio](https://github.com/Samrith-026/data-analyst-portfolio)
 
@@ -29,6 +35,8 @@ Three reproducible case studies using synthetic data, with executable SQL, Pytho
 | Healthcare distribution | Service costs, contribution margin, star schema, and 21 DAX measures across 12,000 synthetic orders | [Project walkthrough](https://github.com/Samrith-026/data-analyst-portfolio/tree/main/healthcare-distribution-powerbi) |
 | Retail performance | Revenue, contribution, order value, and repeat purchasing | [SQL analysis](https://github.com/Samrith-026/data-analyst-portfolio/tree/main/retail-performance) |
 | Distribution SLA | Carrier performance, on-time delivery, and OTIF | [SQL analysis](https://github.com/Samrith-026/data-analyst-portfolio/tree/main/distribution-sla) |
+
+[![Retail performance preview chart](https://raw.githubusercontent.com/Samrith-026/data-analyst-portfolio/main/retail-performance/preview.svg)](https://github.com/Samrith-026/data-analyst-portfolio)
 
 The healthcare project includes Power BI report/model source and an independently implemented HTML companion. Data and SQL checks are documented; Power BI Desktop refresh, DAX execution, and native visual verification remain pending. These are synthetic demonstrations, not employer data or claims of realized business savings. The repository documents AI assistance and reproducibility steps.
 
