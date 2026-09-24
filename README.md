@@ -36,6 +36,8 @@ Three reproducible case studies using synthetic data, with executable SQL, Pytho
 | Retail performance | Revenue, contribution, order value, and repeat purchasing | [SQL analysis](https://github.com/Samrith-026/data-analyst-portfolio/tree/main/retail-performance) |
 | Distribution SLA | Carrier performance, on-time delivery, and OTIF | [SQL analysis](https://github.com/Samrith-026/data-analyst-portfolio/tree/main/distribution-sla) |
 
+[![Healthcare distribution interactive browser companion preview using synthetic data](https://raw.githubusercontent.com/Samrith-026/data-analyst-portfolio/main/healthcare-distribution-powerbi/preview.png)](https://github.com/Samrith-026/data-analyst-portfolio/tree/main/healthcare-distribution-powerbi)
+
 [![Retail performance preview chart](https://raw.githubusercontent.com/Samrith-026/data-analyst-portfolio/main/retail-performance/preview.svg)](https://github.com/Samrith-026/data-analyst-portfolio)
 
 The healthcare project includes Power BI report/model source and an independently implemented HTML companion. Data and SQL checks are documented; Power BI Desktop refresh, DAX execution, and native visual verification remain pending. These are synthetic demonstrations, not employer data or claims of realized business savings. The repository documents AI assistance and reproducibility steps.
